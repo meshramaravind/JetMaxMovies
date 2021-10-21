@@ -1,7 +1,7 @@
 # JetMaxMovie
 New style for app design and Movies App with Movies API JetMaxMovies made in Jetpack Compose.😉😎
 
-(Navigation Components,Dagger-Hilt, Material Components,
+(Navigation Compose,Dagger-Hilt, Material Compose,
 Retrofit2 API, Navigate with arguments, 
 Compose Paging)
 
