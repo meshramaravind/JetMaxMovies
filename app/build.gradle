@@ -84,10 +84,10 @@ dependencies {
     implementation "androidx.constraintlayout:constraintlayout-compose:1.0.0-rc01"
 
     //Compose Paging
-    implementation "androidx.paging:paging-compose:1.0.0-alpha13"
+    implementation "androidx.paging:paging-compose:1.0.0-alpha14"
 
     // Coroutines
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.1'
 
     // Coroutine Lifecycle Scopes

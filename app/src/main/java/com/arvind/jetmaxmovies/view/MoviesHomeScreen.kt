@@ -50,7 +50,7 @@ fun MoviesHomeScreen(
             ),
             title = {
                 Text(
-                    text = "Max Movies",
+                    text = "MaxMovie",
                     style = MaterialTheme.typography.body1,
                     color = Color.White
                 )

@@ -85,8 +85,8 @@ fun SplashScreen(
             )
 
             Text(
-                text = "MaxMoives",
-                style = MaterialTheme.typography.body1,
+                text = "MaxMovie",
+                style = MaterialTheme.typography.h5,
 
                 )
         }
