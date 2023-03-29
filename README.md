@@ -11,10 +11,6 @@ Compose Paging)
 
 <img src="https://user-images.githubusercontent.com/25154589/138284520-b8514e8b-d872-41d6-8b42-4ffeaa8ab300.png" width="200" />
   
- TvShowsDetails Screen its working.
-  
- Episode Screen its working.
-
 </p>
 
 # Movies API
